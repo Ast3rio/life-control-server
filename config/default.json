@@ -1,0 +1,5 @@
+{
+  "serverPort": 4000,
+  "dbUrl": "mongodb+srv://Ast3rio:UNI1ver2SAL3@life-control.mzsrp.mongodb.net/life-control?retryWrites=true&w=majority",
+  "secretKey": "universal-kolizey"
+}
